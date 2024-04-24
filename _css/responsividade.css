@@ -1,0 +1,77 @@
+
+@media screen and (max-width: 1200px) {
+    .carousel{
+    display: none;
+    }
+    
+
+    #divBusca{
+        position: absolute;
+        margin-left: 17px;
+        margin-top: 5px;
+    
+    }
+    
+    
+    .textosobre{
+        font-size: 5px;
+    }
+    
+   
+
+    video{
+    position: absolute;
+    width: 85%;
+    height: auto;
+    margin-left: -40px;
+    margin-top: 10px;
+    }
+
+
+    .textosobre{
+        display: none;
+    }
+
+
+
+    
+.nav a {
+   
+    font-size: 10px;
+
+  
+  }
+
+
+.footerBottom{
+    grid-auto-flow: column;
+    position: absolute;
+    margin-top: 220%;
+    margin-left: 4%;
+}
+
+
+
+img{
+    max-width: 100%;
+}
+
+
+
+.logo{
+    max-width: 1000%;
+}
+
+
+
+
+h3{
+    font-size: 10px;
+}
+
+
+
+
+}
+
+

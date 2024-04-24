@@ -1,0 +1,52 @@
+@media screen and (max-width: 1200px){
+    main img{
+        max-width: 350px;
+      height: 250px;
+      margin-left: 64.5%;
+      
+    
+    }
+
+    #divBusca{
+        position: absolute;
+        margin-left: 17px;
+        margin-top: 5px;
+    
+    }
+    
+    .info h2{
+        font-size:20px ;
+        margin-left: 68%;
+    }
+    
+    
+    .info h1{
+        font-size:15px ;
+        margin-left: 68%;
+        
+    }
+    
+    main p{
+        margin-left: 66%;
+    }
+    
+    .top{
+        margin-top: 2%;
+        padding: 1%;
+    }
+    }
+    
+    .turis{
+        flex-direction: column;
+        margin-top: 15%;
+        margin-left: 9%;
+    }
+
+    .turis img {
+        width: 90%;
+    }
+
+    .bot{
+        font-size:13px;
+        margin-left: 65%;
+    }
