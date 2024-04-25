@@ -1,0 +1,30 @@
+@media screen and (max-width: 1200px) {
+
+    
+    #divBusca{
+        position: absolute;
+        margin-left: 17px;
+        margin-top: 5px;
+    
+    }
+
+    .nav a {
+        font-size: 10px;
+    }
+    
+
+
+
+
+    section img{
+        width: 100%;
+        margin-left: 16px;
+        
+        }
+        section{
+            column-count: 2;
+            column-gap: 20px;
+            }
+
+
+}
